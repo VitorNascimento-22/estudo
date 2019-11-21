@@ -1,0 +1,10 @@
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\obj\Debug\netcoreapp3.0\Exercicio02Aula40.AssemblyInfoInputs.cache
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\obj\Debug\netcoreapp3.0\Exercicio02Aula40.AssemblyInfo.cs
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\bin\Debug\netcoreapp3.0\Exercicio02Aula40.exe
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\bin\Debug\netcoreapp3.0\Exercicio02Aula40.deps.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\bin\Debug\netcoreapp3.0\Exercicio02Aula40.runtimeconfig.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\bin\Debug\netcoreapp3.0\Exercicio02Aula40.runtimeconfig.dev.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\bin\Debug\netcoreapp3.0\Exercicio02Aula40.dll
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\bin\Debug\netcoreapp3.0\Exercicio02Aula40.pdb
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\obj\Debug\netcoreapp3.0\Exercicio02Aula40.dll
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Exercicio02Aula40\Exercicio02Aula40\obj\Debug\netcoreapp3.0\Exercicio02Aula40.pdb

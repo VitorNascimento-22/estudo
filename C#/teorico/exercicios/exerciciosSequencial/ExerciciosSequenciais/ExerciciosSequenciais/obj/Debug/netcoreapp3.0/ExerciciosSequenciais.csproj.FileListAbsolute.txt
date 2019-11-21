@@ -1,0 +1,10 @@
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\bin\Debug\netcoreapp3.0\ExerciciosSequenciais.exe
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\bin\Debug\netcoreapp3.0\ExerciciosSequenciais.deps.json
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\bin\Debug\netcoreapp3.0\ExerciciosSequenciais.runtimeconfig.json
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\bin\Debug\netcoreapp3.0\ExerciciosSequenciais.runtimeconfig.dev.json
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\bin\Debug\netcoreapp3.0\ExerciciosSequenciais.dll
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\bin\Debug\netcoreapp3.0\ExerciciosSequenciais.pdb
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\obj\Debug\netcoreapp3.0\ExerciciosSequenciais.AssemblyInfoInputs.cache
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\obj\Debug\netcoreapp3.0\ExerciciosSequenciais.AssemblyInfo.cs
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\obj\Debug\netcoreapp3.0\ExerciciosSequenciais.dll
+C:\Users\vitor.nascimento\Documents\C#\teorico\exercicios\exerciciosSequencial\ExerciciosSequenciais\ExerciciosSequenciais\obj\Debug\netcoreapp3.0\ExerciciosSequenciais.pdb

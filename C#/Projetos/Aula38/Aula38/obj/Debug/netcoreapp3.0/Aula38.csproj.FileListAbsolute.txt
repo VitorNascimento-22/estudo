@@ -1,0 +1,10 @@
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\bin\Debug\netcoreapp3.0\Aula38.exe
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\bin\Debug\netcoreapp3.0\Aula38.deps.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\bin\Debug\netcoreapp3.0\Aula38.runtimeconfig.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\bin\Debug\netcoreapp3.0\Aula38.runtimeconfig.dev.json
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\bin\Debug\netcoreapp3.0\Aula38.dll
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\bin\Debug\netcoreapp3.0\Aula38.pdb
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\obj\Debug\netcoreapp3.0\Aula38.AssemblyInfoInputs.cache
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\obj\Debug\netcoreapp3.0\Aula38.AssemblyInfo.cs
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\obj\Debug\netcoreapp3.0\Aula38.dll
+C:\Users\vitor.nascimento\Documents\C#\Projetos\Aula38\Aula38\obj\Debug\netcoreapp3.0\Aula38.pdb
